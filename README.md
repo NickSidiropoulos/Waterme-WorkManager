@@ -1,23 +1,6 @@
 Water Me! app
 =======================================
 
-This repository contains the code for the Water Me! app project.
+This is a practice project that helped me learn more about the creation of a Work with Work Manager. It is a plant water reminder app.
 
-This project is an opportunity for you to demonstrate the concepts you learned in Unit 7 of Android Basics with Compose.
-
-Note: The app requires notifications to be enabled. To enable notifications, navigate to the Android Settings menu > Apps > Water Me > Notifications > Enable "All Water Me notifications".
-
-Pre-requisites
---------------
-
-You need to know:
-
-- How to create Composable functions.
-- How to use architecture components including ViewModel.
-- The concept of WorkManager.
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
+![Screenshot_20240330_135340](https://github.com/NickSidiropoulos/Waterme-WorkManager/assets/12250619/2bf413bf-30ee-4747-9e82-571da39bce2d)
